@@ -1,0 +1,14 @@
+.containerLogin {
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;}
+
+.imgIcon {
+    background-image: url("/src/assets/img/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png");   
+}
