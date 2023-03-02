@@ -9,10 +9,7 @@ export const environment = {
     // URL_PAYMENT: 'https://canales-digitales-ext-dev.apps.ambientesbc.com/portal-constructor/payments/v1/creditpayments',
     URL_INTE: 'https://canales-digitales-ext-dev.apps.ambientesbc.com/integracion-sve/sesionmanagement',
     URL_BASE: 'https://canales-digitales-ext-dev.apps.ambientesbc.com/portal-constructor',
-    ENVIROMENT: 'DEV',
-    YEAR: 2018,
-    MONTH: 6,
-    DAY: 15
+
 };
 
 

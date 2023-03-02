@@ -6,9 +6,38 @@
     width: 350px;
     text-align: center;
     margin: 0 auto;
-    margin-top: 100px;
-    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;}
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.cont-img {
+    margin-top: 30px;
+}
+
+.p-inputgroup {
+    padding-left: 62px !important;
+    padding-right: 62px !important;
+}
+
+.inputs {
+    padding-top: 30px;
+}
+
+.p-button-rounded {
+    margin-top: 30px;
+    width: 63% !important;
+}
+
+:host ::ng-deep .p-message-custom {
+    background-color: #E1CFE7;
+    border: solid #8A427A;
+    border-width: 0 0 0 6px;
+    color: #2c1e30;
+}
+
+:host ::ng-deep .p-message-close-icon {
+    color: #2c1e30;
+}
 
 .imgIcon {
-    background-image: url("/src/assets/img/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png");   
+    background-image: url("/src/assets/img/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png");
 }

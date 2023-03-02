@@ -1,0 +1,44 @@
+h1 {
+    font-family: inherit;
+}
+
+.containerPage {
+    background-color: whitesmoke;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    min-width: 607px;
+    min-height: 600px;
+}
+
+.toolbar {
+    position: absolute;
+    width: 100%;
+    z-index: 9999;
+}
+
+.page {
+    height: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+}
+
+button {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.iconBtn {
+    margin-left: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.menuBar {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 60px;
+    text-align: initial;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+}

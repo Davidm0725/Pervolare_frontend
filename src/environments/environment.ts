@@ -7,11 +7,7 @@ export const environment = {
   //  URL_OBLIGACIONES: 'http://localhost:3001/Consultaobligaciones',
   //  URL_MOVIMIENTOS: 'http://localhost:3001/Consultamovimientos',
   //  URL_PAYMENT: 'http://localhost:3001',
-   URL_INTE: 'http://localhost:3001/sesionmanagement',
-   URL_BASE: 'http://localhost:3001',
-   ENVIROMENT: 'PDN',
-   YEAR: 2021,
-   MONTH: 3,
-   DAY: 29
+  //  URL_INTE: 'http://localhost:3001/sesionmanagement',
+   URL_BASE: 'http://localhost:3000/api'
 };
 
